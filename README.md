@@ -19,7 +19,7 @@ Criei uma página para se caso o cliente esquecesse a senha ele informasse o seu
 
 ![image](https://github.com/Shirocher/Condo-Connect/assets/123005142/4b12fee9-2240-4ddb-9dc9-39f75093ae97)
 
-A página principal ficou com um menu lateral com todas as opções que o gerente poderia ter para ver as informações, tabelas e gráficos dos condôminos.
+A página principal ficou com um menu lateral, que interage caso você passe o mouse, com todas as opções que o gerente poderia ter para ver as informações, tabelas e gráficos dos condôminos.
 
 ![image](https://github.com/Shirocher/Condo-Connect/assets/123005142/4a9fb47b-d885-4dd6-b947-73967af0e7d9)
 
